@@ -5,8 +5,8 @@ const old = require('./old')
 
 var arr = []
 beforeEach(() => {
-    arr = [];
-    for (i = 1000; i <= 7100; i++) arr.push(i)
+    arr = [10,15,20];
+    //for (i = 1000; i <= 7005; i++) arr.push(i)
 });
 
 

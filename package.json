@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ivashchvlad/yandexcup#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "timsort": "^0.3.0"
   }
 }
